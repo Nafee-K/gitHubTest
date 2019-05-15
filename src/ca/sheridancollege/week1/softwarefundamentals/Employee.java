@@ -1,5 +1,6 @@
 /*
  * Line added for the first commit.
+ * Line # 2
  */
 package ca.sheridancollege.week1.softwarefundamentals;
 
